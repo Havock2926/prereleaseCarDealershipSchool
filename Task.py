@@ -11,3 +11,6 @@ is_new = input("Are you a new customer?(y/n)\n> ")
 while is_new.lower not in valid_entries:
 	print("Invalid input\nTry Again")
 	is_new = input("Are you a new customer?(y/n)\n> ")
+
+
+#conflict
